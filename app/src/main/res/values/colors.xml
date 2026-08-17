@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="k_bg">#101218</color>
+    <color name="k_surface">#181B22</color>
+    <color name="k_primary">#7C4DFF</color>
+    <color name="k_text">#FFFFFF</color>
+    <color name="k_muted">#A9ADBA</color>
+</resources>
